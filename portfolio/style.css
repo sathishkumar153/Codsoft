@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #333;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content:center;
+    background-color: #098;
+    padding: 1rem 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 5rem;
+}
+.image{
+    background-color: grey;
+    display: flex;
+    justify-content:space-around;
+    width: 1500px;
+    padding: 1rem 0;
+}
+.image h1{
+    font-size: 40px;
+    color: #212121;
+    margin-bottom: 20px;
+}
+span{
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 30px;
+    font-style:bold;
+    color: rgb(255, 251, 0);
+}
+.image p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+section {
+    padding: 2rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #444;
+    color: white;
+    padding: 1rem;
+}
